@@ -1,0 +1,40 @@
+html {
+    font-family: sans-serif;
+    background-color: #121212;
+}
+
+body {
+    text-align: center;
+    position: relative;
+}
+
+.image {
+    display: block;
+    margin: 100px auto 0px auto;
+    border-radius: 50%;
+}
+
+.heading {
+    margin: 10px auto 10px auto;
+    color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
+
+p, i {
+    margin: 30px 5px auto;
+    display: inline;
+    text-decoration: none;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+#linkedin {
+    color: #0077B5;
+}
+
+#github {
+    color: #BB86FC;;
+}
