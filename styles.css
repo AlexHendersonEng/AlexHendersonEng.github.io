@@ -10,8 +10,9 @@ body {
     display: block;
     margin: 1em auto;
     border-radius: 50%;
-    width: 350px;
-    height: 400px;
+    width: 300px;
+    height: auto;
+    max-height: 100%;
 }
 
 .heading {
