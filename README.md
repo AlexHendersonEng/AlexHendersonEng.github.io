@@ -1,2 +1,2 @@
 # AlexHendersonEng.github.io
-Personal Website visit at https://alexhendersoneng.github.io/
+Personal website, visit at https://alexhendersoneng.github.io/
